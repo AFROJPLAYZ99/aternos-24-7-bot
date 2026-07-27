@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "afjnetwork.aternos.me",
-    "port": 42241,
+    "ip": "aurahardcore.aternos.me",
+    "port": 55033,
     "version": "1.20.1",
     "try-creative": false
   },
